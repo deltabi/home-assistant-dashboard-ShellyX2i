@@ -1,4 +1,5 @@
-# Home Assistant Dashboard
+# Home Assistant Dashboard ([Ref.](https://lazyadmin.nl/smart-home/home-assistant-custom-dashboard/))
+
 
 Custom Home Assistant dashboards designed for the [Shelly Wall Display X2i](https://lazyadmin.nl/smart-home/shelly-wall-display-x2i-review/)-  a wall-mounted tablet dashboard, a garage dashboard with a custom heat pump climate card, and a mobile remote for monitoring irrigation on the go. The repo also includes the automations behind the dashboards: lux-based lighting, a weather-driven garden irrigation system, and a rain-aware robot mower scheduler.
 
